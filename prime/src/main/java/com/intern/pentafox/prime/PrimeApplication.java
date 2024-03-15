@@ -2,7 +2,7 @@ package com.intern.pentafox.prime;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-
+//springbootapplication
 @SpringBootApplication
 public class PrimeApplication {
 
